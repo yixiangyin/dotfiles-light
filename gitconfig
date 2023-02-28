@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[user]
+	name = yixiangyin
+	email = y1027020239@qq.com
+[core]
+	editor = nvim
+[credential]
+	helper = osxkeychain

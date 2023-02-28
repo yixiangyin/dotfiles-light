@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/yinyixiang/config'
+let g:netrw_dirhist_6='/Users/yinyixiang/1730'
+let g:netrw_dirhist_5='/Users/yinyixiang/.vim/bundle'
+let g:netrw_dirhist_4='/Users/yinyixiang/.vim'
+let g:netrw_dirhist_3='/Users/yinyixiang/test_dot_files/dotfiles/vim/pack/vendor/start/vim-colors-solarized'
+let g:netrw_dirhist_2='/Users/yinyixiang/.config/nvim'
+let g:netrw_dirhist_1='/Users/yinyixiang/.zsh/plugins/zsh-synatx-highlighting'
+let g:netrw_dirhist_0='/Users/yinyixiang/.zsh/plugins/zsh-completions'
+let g:netrw_dirhist_9='/Users/yinyixiang/.vim'
+let g:netrw_dirhist_8='/Users/yinyixiang/Downloads/Tute-wk4-code/Python_Socket'
