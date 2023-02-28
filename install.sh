@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# (it's not idompotent)
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # vim
